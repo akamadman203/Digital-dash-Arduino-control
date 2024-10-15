@@ -1,0 +1,7 @@
+Speed
+using the toggle pin rapidly at like 1800 hrz produces a speed 
+use the tone pin on the arduino for speed
+pin 7 or 8 on black connector(clip facing up)
+RPM 
+Currently on order a octocoupler will be used to control it with 12v pulsing 
+Unsure of what pin this is at this very time. only time shall tell 

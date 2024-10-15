@@ -1,0 +1,6 @@
+Yazaki
+This is the brand that was used on the digital dash if someone knows how to get more connectors this would help me so much.
+
+Black drive most component control IE speed, rpm, fuel, temp oil pressure ect
+Blue drives the indicating lights on the top of the dash ie check engine, MAF, ect 
+White is where the device gets powered from plus other unknown control I'm yet to discover.

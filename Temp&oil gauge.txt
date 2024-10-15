@@ -1,0 +1,26 @@
+Temp gauge 
+
+350ohms reads 1/12
+90 ohmsreads 6/12'
+45ish omhs reads 12/12
+
+Oil gauge
+
+200 ohms 1/12
+110 ohm 6/12
+30 ohm 12/12
+
+fuel gauge
+6 ohm = full?
+500 ohm = half???
+fuck this its scuffed
+1k is 2 from E
+(testing with pin 14 and 13 tied together. will test sepratly later)
+
+with the clip facing up on the black connector 
+pin 16 is temp
+pin 15 ia oil
+14&13 fuel
+
+very sensitive the lower we go
+only reacts with ground no 5v needed 
